@@ -2,6 +2,10 @@
 
 https://github.com/user-attachments/assets/624886e8-f050-495b-8453-e3f005a7fdbf
 
+#Task 2
+
+![task 2 output](https://github.com/user-attachments/assets/245dc95b-c78e-40f5-83f5-495a38ca6ccb)
+
 # Task 3
 
 https://github.com/user-attachments/assets/ec43b81d-b809-477e-b0e7-704864b58646
